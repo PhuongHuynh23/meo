@@ -4,7 +4,7 @@
 
 
 
-## 📖 1. Giới thiệu dự án
+ 📖 1. Giới thiệu dự án
 Trong bối cảnh các mạng xã hội hiện nay như Instagram hay Facebook phục vụ đa dạng nội dung, **PawsConnect** được xây dựng nhằm tạo ra một không gian chuyên biệt dành riêng cho cộng đồng yêu thú cưng.
 
 Dự án hướng đến việc hình thành một cộng đồng tích cực, nơi thú cưng trở thành trung tâm của nội dung thay vì chỉ xuất hiện như một phần nhỏ trong dòng thông tin chung. Nhờ đó, người dùng có thể dễ dàng chia sẻ khoảnh khắc, lưu giữ kỷ niệm và kết nối với những người có cùng sở thích. 🐕🐈
