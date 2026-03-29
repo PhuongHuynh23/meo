@@ -31,7 +31,7 @@ Khác với mô hình truyền thống (1 tài khoản = 1 người dùng), hệ
 ##  3. Phân rã chức năng hệ thống
 
 ###  3.1. Mức cơ bản (Core Features)
-* ** Quản lý định danh:Đăng ký / Đăng nhập.
+* Quản lý định danh:Đăng ký / Đăng nhập.
     * Tạo, xem, cập nhật hồ sơ thú cưng (CRUD Pet Profiles).
 * ** Bảng tin (Newsfeed): Hiển thị bài đăng theo thời gian thực hoặc mức độ tương tác.
     * Thuật toán hiển thị ưu tiên các thú cưng được gắn thẻ (tag).
