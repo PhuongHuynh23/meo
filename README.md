@@ -13,18 +13,18 @@ Dự án hướng đến việc hình thành một cộng đồng tích cực, n
 
 ##  2. Concept Cốt Lõi & Điểm Khác Biệt
 
-###  2.1. Hệ thống hồ sơ kép (Dual-Profile System)
+###  2.1. Hệ thống hồ sơ kép 
 Khác với mô hình truyền thống (1 tài khoản = 1 người dùng), hệ thống cho phép:
-- **Hồ sơ linh hoạt: Một tài khoản người dùng có thể quản lý nhiều hồ sơ thú cưng.
-- **Định danh riêng biệt: Mỗi hồ sơ thú cưng có thông tin định danh riêng: *Tên, loài, giống, tuổi*.
-- **Gắn kết nội dung: Bài đăng được gắn trực tiếp với từng thú cưng cụ thể.
-  - *Ví dụ: “Nguyễn Văn A vừa đăng ảnh của Banh Bao (Mèo)”* -  **Giá trị: Tăng tính cá nhân hóa và tạo cảm giác mỗi thú cưng là một "nhân vật" riêng biệt với câu chuyện riêng.
+- Hồ sơ linh hoạt: Một tài khoản người dùng có thể quản lý nhiều hồ sơ thú cưng.
+- Định danh riêng biệt: Mỗi hồ sơ thú cưng có thông tin định danh riêng: *Tên, loài, giống, tuổi*.
+- Gắn kết nội dung: Bài đăng được gắn trực tiếp với từng thú cưng cụ thể.
+  - *Ví dụ: “Nguyễn Văn A vừa đăng ảnh của Banh Bao (Mèo)”* -  Giá trị: Tăng tính cá nhân hóa và tạo cảm giác mỗi thú cưng là một "nhân vật" riêng biệt với câu chuyện riêng.
 
 ###  2.2. Trải nghiệm UI/UX cá nhân hóa
-- **Newsfeed tập trung: Bảng tin hiển thị 100% nội dung về thế giới thú cưng.
-- **Tương tác đặc trưng:  Thay thế nút “Like” truyền thống bằng biểu tượng “Paw” 🐾.
+- Newsfeed tập trung: Bảng tin hiển thị 100% nội dung về thế giới thú cưng.
+- Tương tác đặc trưng:  Thay thế nút “Like” truyền thống bằng biểu tượng “Paw” 🐾.
   - Biểu tượng tương tác riêng theo từng loại thú (Xương 🦴 cho chó, Cá 🐟 cho mèo,...).
--  **Giá trị: Tăng nhận diện thương hiệu và tạo trải nghiệm thú vị, khác biệt hoàn toàn so với các MXH phổ thông.
+-  Giá trị: Tăng nhận diện thương hiệu và tạo trải nghiệm thú vị, khác biệt hoàn toàn so với các MXH phổ thông.
 
 
 
